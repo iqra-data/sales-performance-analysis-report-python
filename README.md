@@ -1,7 +1,6 @@
 # Sales Performance Analysis Using Python
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m2rSdenEyubWwL5mMUMbQ4ZHQi5IAb59)
-# Sales Performance Analysis Using Python
 
 ## Project Overview
 
