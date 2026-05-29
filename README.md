@@ -1,5 +1,8 @@
 # Sales Performance Analysis Using Python
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m2rSdenEyubWwL5mMUMbQ4ZHQi5IAb59)
+# Sales Performance Analysis Using Python
+
 ## Project Overview
 
 This project analyses six months of sales data from One Time Sales and Marketing Ltd. using Python. The analysis focuses on salesperson performance, customer purchasing behaviour, shipping methods, sales trends, and the relationship between sales value and order priority.
